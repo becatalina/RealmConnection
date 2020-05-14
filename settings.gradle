@@ -1,0 +1,2 @@
+rootProject.name='RealmDbConnection'
+include ':app'
